@@ -1,0 +1,36 @@
+﻿@page
+@model Midterm_2234599.Pages.StockModel
+@{
+}
+<div class="container p-3">
+    <div class="text-center">
+        <h1 class="display-4">My Stock Info</h1>
+    </div>
+
+
+
+
+    <!-- table -->
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product ID</th>
+                <th>Quantity</th>
+                <th>Buy Price</th>
+                <th>Sell Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Products)
+            {
+                <tr>
+                    <td>@item.ProductId</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.BuyPrice</td>
+                    <td>@item.SellPrice</td>
+                </tr>
+            }
+            
+        </tbody>
+    </table>
+</div>
