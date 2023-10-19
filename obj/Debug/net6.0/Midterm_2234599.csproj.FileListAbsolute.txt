@@ -1,0 +1,174 @@
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\appsettings.json
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.staticwebassets.runtime.json
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.exe
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.deps.json
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.runtimeconfig.json
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.pdb
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.RazorAssemblyInfo.cache
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.RazorAssemblyInfo.cs
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets\msbuild.Midterm_2234599.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets\msbuild.build.Midterm_2234599.props
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Midterm_2234599.props
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Midterm_2234599.props
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\scopedcss\bundle\Midterm_2234599.styles.css
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\scopedcss\projectbundle\Midterm_2234599.bundle.scp.css
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.csproj.CopyComplete
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\refint\Midterm_2234599.dll
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.pdb
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\ref\Midterm_2234599.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\appsettings.json
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.staticwebassets.runtime.json
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.exe
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.deps.json
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.runtimeconfig.json
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Midterm_2234599.pdb
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.AssemblyInfo.cs
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.RazorAssemblyInfo.cache
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.RazorAssemblyInfo.cs
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets\msbuild.Midterm_2234599.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets\msbuild.build.Midterm_2234599.props
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Midterm_2234599.props
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Midterm_2234599.props
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\scopedcss\bundle\Midterm_2234599.styles.css
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\scopedcss\projectbundle\Midterm_2234599.bundle.scp.css
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.csproj.CopyComplete
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\refint\Midterm_2234599.dll
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.pdb
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\Midterm_2234599.genruntimeconfig.cache
+C:\Users\Angel\Desktop\EXAM WEEK PT1\OFFICIAL_Midterm_2234599\Midterm_2234599\Midterm_2234599\obj\Debug\net6.0\ref\Midterm_2234599.dll
